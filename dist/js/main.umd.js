@@ -1,0 +1,1 @@
+!function(e,n){"object"==typeof exports&&"undefined"!=typeof module?n(exports):"function"==typeof define&&define.amd?define(["exports"],n):n((e="undefined"!=typeof globalThis?globalThis:e||self)["bundle-name"]={})}(this,function(e){"use strict";e.getName=function(){return"获取的名字为：".concat("张三",", ").concat("foo")},e.name="张三"});
